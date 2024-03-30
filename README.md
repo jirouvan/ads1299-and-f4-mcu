@@ -9,3 +9,5 @@ Gerber_PCB_2024-03-31.zip 为GerBer制板文件
 
 PickAndPlace_PCB_2024-03-31.xlsx 为坐标文件
 
+SCH_无线脑电信号采集系统V1.0_2024-03-31.pdf 为项目的原理图
+
